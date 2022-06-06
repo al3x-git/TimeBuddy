@@ -6,7 +6,7 @@ This project uses node version 14.19.3 and 6.14.17
 1. in the root directory create a `.env` file
 
 ```
-    touch .env
+     .env
 ```
 
 2. Add the following to the .env file. Replace the placeholder text with actual values
@@ -28,10 +28,11 @@ npm install
 
 
 ```
-npm install -g expo-cli
+npm install -g expo-cli   or
+npm install expo-cli
 ```
 
-1. Run the following command to start
+5. Run the following command to start
 
 ```
 expo start
