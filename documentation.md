@@ -55,6 +55,10 @@ The app created in React is dedicated for mobile phone usage in order to be at h
 
 The methodology used for this project is Design Thinking Methodology because it provides a solution based approach that allows the developer to understand the user’s needs and in this way complete the first phase Empathize.
  
+ ![Design thinking methodology photo](https://i.postimg.cc/pdbpf2mn/2022-06-06-16-39-23.png)
+
+
+
 The first stages of the methodology have been covered in the first part of this assignment while the second part focuses on implementation and testing and at the same time revising the previous stages.
 
 
