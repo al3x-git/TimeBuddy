@@ -54,10 +54,11 @@ The app created in React is dedicated for mobile phone usage in order to be at h
 
 
 The methodology used for this project is Design Thinking Methodology because it provides a solution based approach that allows the developer to understand the user’s needs and in this way complete the first phase Empathize.
- 
- ![Design thinking methodology photo](https://i.postimg.cc/pdbpf2mn/2022-06-06-16-39-23.png)
 
 
+
+
+ [![2022-06-06-16-39-23.png](https://i.postimg.cc/BnXmLfyF/2022-06-06-16-39-23.png)](https://postimg.cc/w1YXZZ9x)
 
 The first stages of the methodology have been covered in the first part of this assignment while the second part focuses on implementation and testing and at the same time revising the previous stages.
 
@@ -77,37 +78,20 @@ The same ten students that were involved in the prototyping phase were asked to 
 ## **Questionnaire answers**
 
 
+[![Q1.png](https://i.postimg.cc/mZjjmrWM/Q1.png)](https://postimg.cc/K4Ktzxzv)
+
+[![Q2.png](https://i.postimg.cc/9Q6YDRy3/Q2.png)](https://postimg.cc/w1kmPBWF)
+
+[![Q3.png](https://i.postimg.cc/T2tjrHnJ/Q3.png)](https://postimg.cc/F1JJvpWY)
+
+[![Q4.png](https://i.postimg.cc/L6qPj49m/Q4.png)](https://postimg.cc/w7p3ppRr)
+
+[![Q5.png](https://i.postimg.cc/vZF49W2v/Q5.png)](https://postimg.cc/crh1G8SK)
+
+[![Q6.png](https://i.postimg.cc/ZRMRq3yp/Q6.png)](https://postimg.cc/1nDPC8B3)
 
 
 
-![Q1.png](https://i.postimg.cc/02z4mxRv/Q1.png)
-
-
-
-![Q2.png](https://i.postimg.cc/PrZ54g1G/Q2.png)
-
-
-
-![Q3.png](https://i.postimg.cc/1t2y0Bt5/Q3.png)
-
-
-
-![Q4.png](https://i.postimg.cc/kgs9Yq4H/Q4.png)
-
-
-
-![Q5.png](https://i.postimg.cc/6QPkF3NM/Q5.png)
-
-
-
-![Q6.png](https://i.postimg.cc/L6Vr2vpY/Q6.png)
-
- 
- 
-
- 
-
- 
 
  
 The evaluation of the prototype suggests that the proposed solution is highly likely to solve the time management problem, although a more  in depth study would be recommended in order to define new features and improve the existing ones.
