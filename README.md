@@ -9,7 +9,7 @@ This project uses node version 14.19.3 and 6.14.17
      .env
 ```
 
-2. Add the following to the .env file. Replace the placeholder text with actual values
+2. Add the following to the .env file. Replace the placeholder text with actual values provided in the submission document
 
 ```
 FIREBASE_API_KEY=app key
