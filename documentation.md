@@ -20,7 +20,8 @@
 ### **Student name**: Alexandru Vlad
 ### **Student ID**:10103963
 ### **Github source code**: https://github.com/al3x-git/TimeBuddy.git
-### **Hosted**: exp://exp.host/@al3x-vlad/timebuddy?release-channel=default   
+### **Hosted**:https://expo.dev/@al3x-vlad/timebuddy?serviceType=classic&distribution=expo-go
+   
 
 ---
 ---
